@@ -5,7 +5,7 @@
       src="https://komarev.com/ghpvc/?username=aalamsaroya&label=Profile%20views&color=0e75b6&style=flat"
       alt="aalamsaroya" /> </p>
 
-  <p><b>How to reach me:</b></p>
+  <h3>How to reach me:</h3>
   <p>📱 9814970988</p>
   <p>✉ aalamsaroya1@gmail.com</p>
 
