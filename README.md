@@ -8,7 +8,6 @@
   <p><b>How to reach me:</b></p>
   <p>📱 9814970988</p>
   <p>✉ aalamsaroya1@gmail.com</p>
-  <p>💬 live:.cid.695a9bd29a355f3</p>
 
 
   <h3>When I code, I rely on:</h3>
